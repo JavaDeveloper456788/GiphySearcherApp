@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">WFYMVpYAXNkzHdm1AncQWYg23fPmCysE</string>
+    <string name="api_base_url">api.giphy.com/v1/gifs/</string>
+    <string name="api_trending">trending</string>
+    <string name="api_search">search</string>
+    </resources>
